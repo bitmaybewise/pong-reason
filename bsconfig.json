@@ -1,0 +1,19 @@
+{
+  "name": "pong-reason",
+  "version": "0.1.0",
+  "sources": [
+    "src"
+  ],
+  "package-specs": {
+    "module": "commonjs",
+    "in-source": true
+  },
+  "suffix": ".bs.js",
+  "bs-dependencies": [
+  ],
+  "bsc-flags": [
+    "-bs-super-errors"
+  ],
+  "namespace": true,
+  "refmt": 3
+}
